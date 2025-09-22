@@ -1,5 +1,3 @@
-Known limitations -
-
 Implemented-
 1. Fetching list of anime from api and displaying the list
 2. Added details page
