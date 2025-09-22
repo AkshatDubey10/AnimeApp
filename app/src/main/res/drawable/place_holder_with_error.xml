@@ -1,0 +1,18 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+  android:width="120dp"
+  android:height="180dp"
+  android:viewportWidth="120"
+  android:viewportHeight="180">
+
+  <!-- Background rectangle -->
+  <path
+    android:fillColor="#CCCCCC"
+    android:pathData="M0,0 H120 V180 H0 Z"/>
+
+  <!-- Red X icon in center -->
+  <path
+    android:pathData="M30,30 L90,150 M90,30 L30,150"
+    android:strokeColor="#FF0000"
+    android:strokeWidth="6"
+    android:strokeLineCap="round"/>
+</vector>
